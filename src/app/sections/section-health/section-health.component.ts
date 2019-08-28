@@ -10,6 +10,7 @@ export class SectionHealthComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log('test');
   }
 
 }
